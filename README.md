@@ -1,4 +1,12 @@
-# freelens-docs.github.io
-Freelens Documentation
+# Contribute to this doc
+First of all install `mkdocs`
+```shell
+pip install mkdocs-material
+```
 
-## Work In Progress
+Edit files and test it with this command
+```shell
+mkdocs serve
+```
+
+Enjoy!
